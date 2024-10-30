@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HasanEROL
+- 👋 Hi, I’m @Hasan
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning frontend
   
