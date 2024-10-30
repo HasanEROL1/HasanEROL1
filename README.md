@@ -2,7 +2,7 @@ Merhaba
 Ben Hasan EROL
 Front End Develooper olarak çalışmaktayım
 Aktif olarak html ,css ve javascipt ile Web siteleri düzenlemekteyim.
- Şu anReact öğreniyorum 
+ Şu an React öğreniyorum 
  Yazılıma başladığım zamandan beri bir çok şey öğrenerek web geliştirici olarak becerilerimi arttırdım bundan sonra da yeni şeyler öğrenip uzman bir develooper olmak istiyorum.
 
 
